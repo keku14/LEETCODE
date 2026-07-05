@@ -7,8 +7,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
+| [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+## Binary Search
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+## Greedy
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+## Sorting
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 <!---LeetCode Topics End-->
