@@ -41,18 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
