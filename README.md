@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -37,13 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
