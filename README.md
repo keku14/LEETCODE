@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/keku14/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
 | ------- |
