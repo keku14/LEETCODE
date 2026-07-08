@@ -131,10 +131,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/keku14/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keku14/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/keku14/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/keku14/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/keku14/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
