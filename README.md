@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 ## Combinatorics
 |  |
 | ------- |
