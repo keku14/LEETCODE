@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keku14/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 ## Binary Search
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keku14/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
