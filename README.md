@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keku14/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
