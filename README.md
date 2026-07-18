@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keku14/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keku14/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keku14/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
