@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
