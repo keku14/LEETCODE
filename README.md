@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/keku14/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keku14/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keku14/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
