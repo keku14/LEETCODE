@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [2924-find-champion-ii](https://github.com/keku14/LEETCODE/tree/master/2924-find-champion-ii) |
 ## Linked List
 |  |
 | ------- |
