@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keku14/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/keku14/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keku14/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/keku14/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keku14/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
