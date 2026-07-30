@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keku14/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/keku14/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/keku14/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Backtracking
 |  |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/keku14/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
