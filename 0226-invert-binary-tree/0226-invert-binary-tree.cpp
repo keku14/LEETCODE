@@ -13,13 +13,11 @@ class Solution {
 public:
     void fn(TreeNode* root){
         if(root == NULL) return ;
-
-        fn(root->left);
-        fn(root->right);
-
         TreeNode* temp = root->left;
         root->left = root->right;
         root->right = temp;
+        fn(root->left);
+        fn(root->right);
     }
     TreeNode* invertTree(TreeNode* root) {
         fn(root);
