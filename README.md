@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/keku14/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keku14/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/keku14/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keku14/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keku14/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/keku14/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keku14/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/keku14/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Graph Theory
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keku14/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
