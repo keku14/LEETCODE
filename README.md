@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
+| [3698-split-array-with-minimum-difference](https://github.com/keku14/LEETCODE/tree/master/3698-split-array-with-minimum-difference) |
 | [3731-find-missing-elements](https://github.com/keku14/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/keku14/LEETCODE/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3698-split-array-with-minimum-difference](https://github.com/keku14/LEETCODE/tree/master/3698-split-array-with-minimum-difference) |
 ## DP on Trees
 |  |
 | ------- |
