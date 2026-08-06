@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/keku14/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+| [0925-long-pressed-name](https://github.com/keku14/LEETCODE/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/keku14/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0925-long-pressed-name](https://github.com/keku14/LEETCODE/tree/master/0925-long-pressed-name) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/keku14/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
