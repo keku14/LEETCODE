@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/keku14/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keku14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keku14/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/keku14/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keku14/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/keku14/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
+| [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keku14/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keku14/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keku14/LEETCODE/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
