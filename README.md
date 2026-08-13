@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/keku14/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keku14/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0482-license-key-formatting](https://github.com/keku14/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/keku14/LEETCODE/tree/master/0551-student-attendance-record-i) |
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/keku14/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/keku14/LEETCODE/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
