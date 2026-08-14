@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/keku14/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keku14/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/keku14/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 ## Greedy
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -438,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/keku14/LEETCODE/tree/master/0310-minimum-height-trees) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
