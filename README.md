@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/keku14/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/keku14/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/keku14/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keku14/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/keku14/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/keku14/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/keku14/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [1512-number-of-good-pairs](https://github.com/keku14/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/keku14/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keku14/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
