@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/keku14/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/keku14/LEETCODE/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2527-find-xor-beauty-of-array](https://github.com/keku14/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/keku14/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/keku14/LEETCODE/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/keku14/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/keku14/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2527-find-xor-beauty-of-array](https://github.com/keku14/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/keku14/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/keku14/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keku14/LEETCODE/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keku14/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/keku14/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
