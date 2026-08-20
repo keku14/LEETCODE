@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/keku14/LEETCODE/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/keku14/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/keku14/LEETCODE/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/keku14/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/keku14/LEETCODE/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3310-remove-methods-from-project](https://github.com/keku14/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keku14/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [2924-find-champion-ii](https://github.com/keku14/LEETCODE/tree/master/2924-find-champion-ii) |
 | [3310-remove-methods-from-project](https://github.com/keku14/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Linked List
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/keku14/LEETCODE/tree/master/0310-minimum-height-trees) |
+| [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 ## Pigeonhole Principle
 |  |
 | ------- |
