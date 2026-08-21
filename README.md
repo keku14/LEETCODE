@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/keku14/LEETCODE/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/keku14/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/keku14/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/keku14/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/keku14/LEETCODE/tree/master/0337-house-robber-iii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/keku14/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/keku14/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/keku14/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/keku14/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
 ## Design
