@@ -3,21 +3,28 @@ public:
     string shortestBeautifulSubstring(string s, int k) {
         int n = s.length();
         string res = "";
-        for(int i = 0;i<n;i++){
-            string l = "";
-            int cnt = 0;
-            for(int j = i;j<n;j++){
-                l += s[j];
-                if(s[j] == '1') cnt++;
+        int l = 0;
+        int r = 0;
+        string curr = "";
+        int cnt = 0;
+        while(r < n){
+            if(s[r] == '1') cnt++;
+            while(cnt > k){
+                if(s[l] == '1') cnt--;
 
-                if(cnt == k){
-                    if(res == "" || l.length() < res.length() ||
-                       (l.length() == res.length() && l < res)) {
-                        res = l;
-                    }
-                }else if(cnt > k) break;
+                l++;
             }
+
+            if(cnt == k){
+                while(s[l] == '0') l++;
+                string temp = "";
+                for(int i = l;i<=r;i++) temp += s[i];
+                if(curr == "" || curr.size() > temp.size() || (curr.size() == temp.size() && temp < curr)){
+                    curr = temp;
+                }
+            }
+            r++;
         }
-        return res;
+        return curr;
     }
 };
