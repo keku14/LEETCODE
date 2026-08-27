@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/keku14/LEETCODE/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/keku14/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/keku14/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/keku14/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/keku14/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/keku14/LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/keku14/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keku14/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/keku14/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/keku14/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
