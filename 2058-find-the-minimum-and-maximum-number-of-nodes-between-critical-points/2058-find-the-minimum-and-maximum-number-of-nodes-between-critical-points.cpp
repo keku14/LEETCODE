@@ -32,18 +32,14 @@ public:
                 } else {
                     mini = min(mini, s - b);
                 }
-
                 b = s;
             }
-
             s++;
             prev = temp;
             temp = temp->next;
         }
 
-        if (a == -1 || a == b)
-            return {-1, -1};
-
+        if (a == -1 || a == b) return {-1, -1};
         return {mini, b - a};
     }
 };
