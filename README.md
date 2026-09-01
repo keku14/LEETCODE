@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/keku14/LEETCODE/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keku14/LEETCODE/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/keku14/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/keku14/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keku14/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -439,10 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/keku14/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/keku14/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Number Theory
 |  |
