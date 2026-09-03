@@ -30,11 +30,11 @@ public:
                 if(i == 0) left = idx;
                 if(i == size-1) right = idx;
 
-                if(x->left) q.push({x->left,2*idx+1});
-                if(x->right) q.push({x->right,2*idx+2});
+                if(x->left) q.push({x->left,1LL*2*idx+1});
+                if(x->right) q.push({x->right,1LL*2*idx+2});
             }
             ans = max(ans,(long long)right-left+1);
         }
-        return ans;
+        return (int)ans;
     }
 };
