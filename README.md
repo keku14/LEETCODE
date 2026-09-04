@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/keku14/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/keku14/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/keku14/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/keku14/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/keku14/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/keku14/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keku14/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/keku14/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Counting
 |  |
