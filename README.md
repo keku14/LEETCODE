@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/keku14/LEETCODE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/keku14/LEETCODE/tree/master/0179-largest-number) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/keku14/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keku14/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/keku14/LEETCODE/tree/master/0139-word-break) |
@@ -634,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/keku14/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
