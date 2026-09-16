@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/keku14/LEETCODE/tree/master/0877-stone-game) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/keku14/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/keku14/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/keku14/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/keku14/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/keku14/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/keku14/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/keku14/LEETCODE/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/keku14/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/keku14/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keku14/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [2924-find-champion-ii](https://github.com/keku14/LEETCODE/tree/master/2924-find-champion-ii) |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/keku14/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
+| [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 ## Design
 |  |
 | ------- |
