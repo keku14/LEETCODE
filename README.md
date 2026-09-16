@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keku14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keku14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keku14/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
