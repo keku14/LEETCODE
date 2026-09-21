@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keku14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/keku14/LEETCODE/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keku14/LEETCODE/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/keku14/LEETCODE/tree/master/0139-word-break) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/keku14/LEETCODE/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -658,4 +662,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keku14/LEETCODE/tree/master/0056-merge-intervals) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
