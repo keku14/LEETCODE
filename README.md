@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keku14/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/keku14/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/keku14/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/keku14/LEETCODE/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/keku14/LEETCODE/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keku14/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/keku14/LEETCODE/tree/master/3731-find-missing-elements) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/keku14/LEETCODE/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/keku14/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keku14/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/keku14/LEETCODE/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/keku14/LEETCODE/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
