@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/keku14/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/keku14/LEETCODE/tree/master/0377-combination-sum-iv) |
+| [0407-trapping-rain-water-ii](https://github.com/keku14/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/keku14/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/keku14/LEETCODE/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/keku14/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/keku14/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/keku14/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/keku14/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/keku14/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/keku14/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/keku14/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/keku14/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/keku14/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/keku14/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
