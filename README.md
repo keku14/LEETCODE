@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/keku14/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keku14/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/keku14/LEETCODE/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/keku14/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keku14/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/keku14/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/keku14/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/keku14/LEETCODE/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/keku14/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/keku14/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0811-subdomain-visit-count](https://github.com/keku14/LEETCODE/tree/master/0811-subdomain-visit-count) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/keku14/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/keku14/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/keku14/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/keku14/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keku14/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/keku14/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/keku14/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keku14/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/keku14/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/keku14/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keku14/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keku14/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keku14/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keku14/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keku14/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/keku14/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keku14/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keku14/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keku14/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
