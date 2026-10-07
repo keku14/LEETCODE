@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/keku14/LEETCODE/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/keku14/LEETCODE/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/keku14/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keku14/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/keku14/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/keku14/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/keku14/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/keku14/LEETCODE/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/keku14/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/keku14/LEETCODE/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/keku14/LEETCODE/tree/master/0139-word-break) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/keku14/LEETCODE/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/keku14/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/keku14/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keku14/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/keku14/LEETCODE/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/keku14/LEETCODE/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/keku14/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/keku14/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/keku14/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/keku14/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keku14/LEETCODE/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/keku14/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
