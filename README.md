@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/keku14/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/keku14/LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1260-shift-2d-grid](https://github.com/keku14/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/keku14/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/keku14/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/keku14/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/keku14/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keku14/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/keku14/LEETCODE/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/keku14/LEETCODE/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/keku14/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/keku14/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/keku14/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keku14/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keku14/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keku14/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
