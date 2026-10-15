@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/keku14/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/keku14/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keku14/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/keku14/LEETCODE/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keku14/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keku14/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/keku14/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/keku14/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/keku14/LEETCODE/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keku14/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keku14/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keku14/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keku14/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -762,4 +764,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keku14/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/keku14/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keku14/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keku14/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keku14/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
