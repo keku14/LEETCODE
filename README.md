@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/keku14/LEETCODE/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0477-total-hamming-distance](https://github.com/keku14/LEETCODE/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/keku14/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/keku14/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/keku14/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/keku14/LEETCODE/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/keku14/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keku14/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/keku14/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/keku14/LEETCODE/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Brainteaser
