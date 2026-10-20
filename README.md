@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keku14/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/keku14/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/keku14/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/keku14/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/keku14/LEETCODE/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/keku14/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keku14/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/keku14/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/keku14/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/keku14/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/keku14/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/keku14/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/keku14/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Math
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/keku14/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/keku14/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/keku14/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/keku14/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
