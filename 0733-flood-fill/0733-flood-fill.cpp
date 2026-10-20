@@ -11,14 +11,14 @@ public:
         q.push({sr,sc});
         vector<vector<int>> vis(n,vector<int>(m,0));
         vis[sr][sc] = 1;
-       
+        image[sr][sc] = color;
         vector<int> dx = {0,1,0,-1};
         vector<int> dy = {1,0,-1,0};
         while(!q.empty()){
             int x = q.front().first;
             int y = q.front().second;
             q.pop();
-            image[x][y] = color;
+            //image[x][y] = color;
             for(int i = 0;i<4;i++){
                 int nx = x + dx[i];
                 int ny = y + dy[i];
@@ -26,6 +26,7 @@ public:
                 if(nx>=0 && nx<n && ny >= 0&& ny<m && image[nx][ny] == inicol && vis[nx][ny] == 0){
                     q.push({nx,ny});
                     vis[nx][ny] = 1;
+                    image[nx][ny] = color;
                 }
             }
         }
