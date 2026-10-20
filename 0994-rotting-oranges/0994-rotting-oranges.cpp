@@ -6,13 +6,11 @@ public:
 
         vector<int> dx = {1,0,-1,0};
         vector<int> dy = {0,1,0,-1};
-        vector<vector<int>> vis(m,vector<int>(n,0));
         queue<pair<pair<int,int>,int>> q;
         for(int i = 0;i<m;i++){
             for(int j= 0;j<n;j++){
                 if(grid[i][j] == 2){
                     q.push({{i,j},0});
-                    vis[i][j] = 1;
                 }
             }
         }
@@ -26,16 +24,16 @@ public:
                 int ni = i + dx[k];
                 int nj = j + dy[k];
 
-                if(ni >= 0 && ni < m && nj >= 0 && nj < n && grid[ni][nj] == 1 && vis[ni][nj] == 0){
+                if(ni >= 0 && ni < m && nj >= 0 && nj < n && grid[ni][nj] == 1){
                     q.push({{ni,nj},t+1});
                     time = t+1;
-                    vis[ni][nj] = 1;
+                    grid[ni][nj]=2;
                 }
             }
         }
         for(int i = 0;i<m;i++){
             for(int j = 0;j<n;j++){
-                if(grid[i][j]==1 && vis[i][j] == 0) return -1;
+                if(grid[i][j]==1) return -1;
             }
         }
         return time;
