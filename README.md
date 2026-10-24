@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keku14/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/keku14/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2103-rings-and-rods](https://github.com/keku14/LEETCODE/tree/master/2103-rings-and-rods) |
+| [2409-count-days-spent-together](https://github.com/keku14/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/keku14/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keku14/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/keku14/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keku14/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keku14/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/keku14/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2527-find-xor-beauty-of-array](https://github.com/keku14/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keku14/LEETCODE/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keku14/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
