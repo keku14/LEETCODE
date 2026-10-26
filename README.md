@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/keku14/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/keku14/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/keku14/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3698-split-array-with-minimum-difference](https://github.com/keku14/LEETCODE/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keku14/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keku14/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keku14/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/keku14/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/keku14/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/keku14/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/keku14/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/keku14/LEETCODE/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3310-remove-methods-from-project](https://github.com/keku14/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/keku14/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/keku14/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/keku14/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/keku14/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/keku14/LEETCODE/tree/master/0684-redundant-connection) |
 | [0924-minimize-malware-spread](https://github.com/keku14/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [1254-number-of-closed-islands](https://github.com/keku14/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/keku14/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
