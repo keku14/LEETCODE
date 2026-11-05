@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/keku14/LEETCODE/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/keku14/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keku14/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/keku14/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/keku14/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/keku14/LEETCODE/tree/master/1463-cherry-pickup-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/keku14/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/keku14/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0925-long-pressed-name](https://github.com/keku14/LEETCODE/tree/master/0925-long-pressed-name) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keku14/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keku14/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/keku14/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/keku14/LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/keku14/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keku14/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keku14/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keku14/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/keku14/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/keku14/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/keku14/LEETCODE/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keku14/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keku14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keku14/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keku14/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
