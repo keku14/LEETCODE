@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 | [1049-last-stone-weight-ii](https://github.com/keku14/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -822,4 +823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keku14/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
