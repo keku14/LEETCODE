@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keku14/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keku14/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keku14/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keku14/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/keku14/LEETCODE/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keku14/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
