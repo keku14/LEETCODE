@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keku14/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keku14/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/keku14/LEETCODE/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/keku14/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keku14/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/keku14/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/keku14/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/keku14/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keku14/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/keku14/LEETCODE/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/keku14/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3698-split-array-with-minimum-difference](https://github.com/keku14/LEETCODE/tree/master/3698-split-array-with-minimum-difference) |
 ## DP on Trees
 |  |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keku14/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keku14/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keku14/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/keku14/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
 |  |
 | ------- |
