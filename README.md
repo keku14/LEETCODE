@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/keku14/LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/keku14/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/keku14/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/keku14/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/keku14/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/keku14/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/keku14/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/keku14/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/keku14/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/keku14/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/keku14/LEETCODE/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/keku14/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/keku14/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
