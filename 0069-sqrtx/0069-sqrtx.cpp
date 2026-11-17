@@ -11,10 +11,10 @@ public:
             }else if(mid*mid > (long long)x){
                 e = mid - 1;
             }else{
-                ans = mid;
+                //ans = mid;
                 s = mid + 1;
             }
         }
-        return ans;
+        return e;
     }
 };
