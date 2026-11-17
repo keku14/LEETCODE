@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/keku14/LEETCODE/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/keku14/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/keku14/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/keku14/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/keku14/LEETCODE/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/keku14/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/keku14/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/keku14/LEETCODE/tree/master/0477-total-hamming-distance) |
@@ -836,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/keku14/LEETCODE/tree/master/0322-coin-change) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/keku14/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
