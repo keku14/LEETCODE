@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/keku14/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/keku14/LEETCODE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/keku14/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/keku14/LEETCODE/tree/master/0202-happy-number) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keku14/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/keku14/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/keku14/LEETCODE/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/keku14/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keku14/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
